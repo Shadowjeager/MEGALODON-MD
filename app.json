@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "MEGALODON~MD~8BoSVLbC#6PhpBZTE0bCX51HL9QXqY4FDZ5d8VsWWhc_DLDWKHrM"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "MEGALODON-MD"
+      "value": "꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉   ꧁⳹𖤍⳼꧂"
     }, 
       
     "PREFIX": {
@@ -85,13 +85,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉   ꧁⳹𖤍⳼꧂"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "242067266522"
 
     }, 
 
