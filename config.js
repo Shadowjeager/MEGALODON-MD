@@ -13,9 +13,9 @@ module.exports = {
     CHATBOT: getConfig("CHATBOT") || "on",
     //chatbot on/off
   
-    SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~WUlSWRCK#CClynBhtkD4tgd1YH7MlAikyVBynQK3xnyePuGGlkD4",  // Your bot's session ID (keep it secure)
+    SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~rQ1kQSpR#CYWXX3YP2gBek-yUWufN5vK3hLl4YVnv29JbCneZ29k",  // Your bot's session ID (keep it secure)
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
-    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "MEGALODON-MD",  // Bot's display name
+    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "𒆜☫𝐌𝐄𝐆𝐀𝐌𝕬𝕽𝕹𝕰𝖃𝖀𝕾-𝐌𝐃☫𒆜",  // Bot's display name
     MODE: process.env.MODE || "public",        // Bot mode: public/private/group/inbox
     // ===== OWNER & DEVELOPER SETTINGS =====
     OWNER_NUMBER: process.env.OWNER_NUMBER || "242067266522",  // Owner's WhatsApp number
@@ -27,14 +27,14 @@ module.exports = {
     // ===== AUTO-RESPONSE SETTINGS =====
     
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",// Reply to status updates?
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*MEGALODON BOT VIEWED YOUR STATUS 🤖*",  // Status reply message
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉   ꧁⳹𖤍⳼꧂ VIEWED YOUR STATUS 🤖*",  // Status reply message
     READ_MESSAGE: process.env.READ_MESSAGE || "false",          // Mark messages as read automatically?
 
     // ===== REACTION & STICKER SETTINGS =====
     AUTO_REACT: process.env.AUTO_REACT || "false",              // Auto-react to messages?
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",          // Use custom emoji reactions?
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",  // Custom reaction emojis
-    STICKER_NAME: process.env.STICKER_NAME || "MEGALODON-MD",     // Sticker pack name
+    STICKER_NAME: process.env.STICKER_NAME || "꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉   ꧁⳹𖤍⳼꧂",     // Sticker pack name
 
     
     // ===== MEDIA & AUTOMATION =====
