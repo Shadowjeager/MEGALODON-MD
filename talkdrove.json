@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "MEGALODON-MD",
+    "bot-name": "𒆜☫𝐌𝐄𝐆𝐀𝐌𝕬𝕽𝕹𝕰𝖃𝖀𝕾-𝐌𝐃☫𒆜",
     "description": "Whiskey Sockets Baileys Whatsapp bot by DybyTech",
     "logo": "https://files.catbox.moe/2ozipw.jpg",
     "keywords": ["bot"],
@@ -10,7 +10,7 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with MEGALODON~MD~  or get session id from here,  https://meg-lodon-session.onrender.com/pair",
-        "value":"",
+        "value":"MEGALODON~MD~rQ1kQSpR#CYWXX3YP2gBek-yUWufN5vK3hLl4YVnv29JbCneZ29k",
         "required": true
         
       },
@@ -25,7 +25,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃"
+      "value": "꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉   ꧁⳹𖤍⳼꧂"
   
     },
     
@@ -84,20 +84,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "꧁⳹𖤍⳼꧂     ᳄࿐𝐋𝐎𝐑𝐃 ×༉  𝕷𝕰 ×༉  𝕱𝕬𝖀𝕮𝕳𝕰𝖀𝕽 ×༉ ᴍᴀʀɴᴇxᴜꜱ ×༉   ꧁⳹𖤍⳼꧂"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "50948336180"
+      "value": "242067266522"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃"
+      "value": "𒆜☫𝐌𝐄𝐆𝐀𝐌𝕬𝕽𝕹𝕰𝖃𝖀𝕾-𝐌𝐃☫𒆜"
 
       }, 
 
