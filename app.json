@@ -1,5 +1,5 @@
 {
-  "name": "MEGALODON-MD",
+  "name": "𒆜☫𝐌𝐄𝐆𝐀𝐌𝕬𝕽𝕹𝕰𝖃𝖀𝕾-𝐌𝐃☫𒆜",
   "description": "Javascript WhatsApp bot made by ᴅʏʙʏ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/frns4k.jpg",
   "keywords": ["MEGALODON-MD"],
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": "MEGALODON~MD~WUlSWRCK#CClynBhtkD4tgd1YH7MlAikyVBynQK3xnyePuGGlkD4"
+      "value": "MEGALODON~MD~rQ1kQSpR#CYWXX3YP2gBek-yUWufN5vK3hLl4YVnv29JbCneZ29k"
     },  
     
     "STICKER_NAME": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "MEGALODON-MD"
+      "value": "𒆜☫𝐌𝐄𝐆𝐀𝐌𝕬𝕽𝕹𝕰𝖃𝖀𝕾-𝐌𝐃☫𒆜"
 
       }, 
 
